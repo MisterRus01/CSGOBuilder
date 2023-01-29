@@ -4,8 +4,6 @@ package com.example.csgobuildguide
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.View
-import com.example.csgobuildguide.databinding.ActivityLoginBinding
 import com.example.csgobuildguide.databinding.ActivityMainBinding
 import com.google.firebase.auth.FirebaseAuth
 
