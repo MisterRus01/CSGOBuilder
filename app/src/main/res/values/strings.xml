@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CSGOBuildGuide</string>
+    <string name="ct">CounterTerrorist</string>
+    <string name="t">Terrorist</string>
+    <string name="ctButton">chooseCT</string>
+    <string name="tButton">chooseT</string>
+    <string name="chooseText">Choose your side</string>
+    <string name="glock">Glock</string>
+    <string name="dual">Dual</string>
+    <string name="p250">P250</string>
+    <string name="tec9">Tec9</string>
+    <string name="nickname">Nickname</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="hint">hint</string>
+    <string name="title">CS:GO Build Guide</string>
+    <string name="pass">Forget Password?</string>
+    <string name="reg">Need account? Register</string>
+    <string name="registration">Registration</string>
+    <string name="email">Email</string>
+    <string name="singin">Already registered? Click here to login.</string>
+    <string name="logOut">Log Out</string>
+    <string name="pistol">Pistols</string>
+    <string name="heavy">Heavy</string>
+    <string name="granade">Granades</string>
+    <string name="smg">SMG</string>
+    <string name="rifles">Rifles</string>
+    <string name="equipment">Equipment</string>
+
+
+</resources>
